@@ -3363,8 +3363,8 @@ img.u-pull-left {
 
     .s-intro__content-title {
         font-size   : var(--text-display-1);
-        line-height : var(--vspace-2);
-        max-width: 67%; /* Adjust this as needed */
+        line-height : var(--vspace-2_5);
+        max-width: 66%; /* Adjust this as needed */
         width: 100%;     /* Ensure it scales properly */
     }
 
@@ -3388,7 +3388,7 @@ img.u-pull-left {
 
     .s-intro__content-title {
         font-size   : var(--text-xxxl);
-        line-height : var(--vspace-1_75);
+        line-height : var(--vspace-2);
     }
 
     .s-intro__scroll {
