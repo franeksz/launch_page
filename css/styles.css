@@ -3388,7 +3388,7 @@ img.u-pull-left {
 
     .s-intro__content-title {
         font-size   : var(--text-xxxl);
-        line-height : var(--vspace-1_5);
+        line-height : var(--vspace-1_75);
     }
 
     .s-intro__scroll {
