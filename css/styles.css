@@ -207,6 +207,7 @@
     --vspace-1_5       : calc(1.5 * var(--space));
     --vspace-1_75      : calc(1.75 * var(--space));
     --vspace-2         : calc(2 * var(--space));
+    --vspace-2_25      : calc(2.25 * var(--space));
     --vspace-2_5       : calc(2.5 * var(--space));
     --vspace-3         : calc(3 * var(--space));
     --vspace-3_5       : calc(3.5 * var(--space));
@@ -3363,8 +3364,8 @@ img.u-pull-left {
 
     .s-intro__content-title {
         font-size   : var(--text-display-1);
-        line-height : var(--vspace-2_5);
-        max-width: 66%; /* Adjust this as needed */
+        line-height : var(--vspace-2_25);
+        max-width: 67%; /* Adjust this as needed */
         width: 100%;     /* Ensure it scales properly */
     }
 
@@ -3388,7 +3389,7 @@ img.u-pull-left {
 
     .s-intro__content-title {
         font-size   : var(--text-xxxl);
-        line-height : var(--vspace-2);
+        line-height : var(--vspace-1_75);
     }
 
     .s-intro__scroll {
