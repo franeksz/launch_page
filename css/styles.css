@@ -3376,14 +3376,14 @@ img.u-pull-left {
 @media screen and (max-width: 500px) {
     .s-intro .counter__time {
         font-size : 3.4rem;
-        padding-bottom: 2rem;
+        padding-bottom: 5rem;
     }
 }
 
 @media screen and (max-width: 400px) {
     .s-intro .counter__time {
         font-size : 3rem;
-        padding-bottom: 2rem;
+        padding-bottom: 5rem;
     }
 
     .s-intro__content-title {
