@@ -3345,7 +3345,7 @@ img.u-pull-left {
 
 @media screen and (max-width: 600px) {
     .s-intro__content {
-        padding-bottom : 8rem;
+        padding-bottom : 10rem;
     }
 
     .s-intro .counter__time {
@@ -3364,7 +3364,7 @@ img.u-pull-left {
     .s-intro__content-title {
         font-size   : var(--text-display-1);
         line-height : var(--vspace-2);
-        max-width: 70%; /* Adjust this as needed */
+        max-width: 67%; /* Adjust this as needed */
         width: 100%;     /* Ensure it scales properly */
     }
 
@@ -3376,14 +3376,14 @@ img.u-pull-left {
 @media screen and (max-width: 500px) {
     .s-intro .counter__time {
         font-size : 3.4rem;
-        padding-bottom: 5rem;
+        padding-bottom: 4rem;
     }
 }
 
 @media screen and (max-width: 400px) {
     .s-intro .counter__time {
         font-size : 3rem;
-        padding-bottom: 5rem;
+        padding-bottom: 4rem;
     }
 
     .s-intro__content-title {
